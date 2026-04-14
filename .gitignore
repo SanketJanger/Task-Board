@@ -1,0 +1,5 @@
+.envnode_modules
+dist
+.env
+.vercel
+.env*.local
