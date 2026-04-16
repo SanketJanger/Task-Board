@@ -2,7 +2,7 @@
 
 A drag-and-drop task management board built with React, TypeScript, and Supabase.
 
-Live demo: [your-vercel-url]
+Live demo: https://sanket-task-board.netlify.app/
 
 ## Features
 
